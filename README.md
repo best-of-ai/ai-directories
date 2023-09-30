@@ -2,7 +2,8 @@
 
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
-- [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated 
+- [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
+- [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
