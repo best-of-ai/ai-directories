@@ -14,4 +14,5 @@
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
+- [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 
