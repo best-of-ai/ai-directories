@@ -1,5 +1,6 @@
 # Top AI Directories
 
+- [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated 
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
