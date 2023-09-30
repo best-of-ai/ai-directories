@@ -4,6 +4,7 @@
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
+- [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
