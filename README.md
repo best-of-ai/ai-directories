@@ -2,6 +2,7 @@
 
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
+- [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
