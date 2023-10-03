@@ -21,6 +21,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
 - [OpenFuture AI](https://openfuture.ai/) - Largest Tools Directory, Fastest Update, The Most Accurate Database
+- [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
