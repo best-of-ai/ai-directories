@@ -27,5 +27,6 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
+- [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 
