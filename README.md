@@ -31,6 +31,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 
+## K
+
+- [Kroto - Course Creation](https://www.kroto.in) - Fastest way to create interactive courses with AI
+
 ## O
 
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
