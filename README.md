@@ -5,6 +5,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## A
 
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
+- [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
