@@ -2,6 +2,22 @@
 
 Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product team, this resource is your one-stop destination to explore a variety of directories that can help boost the visibility of your AI innovations. We've meticulously gathered and organized these directories, making it easier than ever to connect with platforms that showcase cutting-edge AI solutions. Join us in fostering collaboration and recognition within the AI community by leveraging this comprehensive list.
 
+## Altern AI Directory
+
+[Altern AI Directory](https://altern.ai) is sponsored this repository.
+
+- **Base on start letter:**
+  - [A](#a)
+  - [F](#f)
+  - [G](#g)
+  - [I](#i)
+  - [O](#o)
+  - [P](#p)
+  - [S](#s)
+  - [T](#t)
+
+
+
 ## A
 
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
