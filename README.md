@@ -4,7 +4,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## Altern AI Directory
 
-[Altern AI Directory](https://altern.ai) is sponsored this repository.
+### [Altern AI Directory](https://altern.ai) is sponsored this repository.
+
+## Table of Content
 
 - **Base on start letter:**
   - [A](#a)
