@@ -71,4 +71,5 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [Trending AI Tools](https://tipseason.com/ai-tools) - Trending AI Tools directory to launch your AI startup - TipSeason
 
