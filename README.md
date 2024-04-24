@@ -22,6 +22,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## A
 
+- [Altern](https://altern.ai) - Find almost anything related to AI
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
@@ -32,7 +33,6 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
-- [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
 
 ## F
