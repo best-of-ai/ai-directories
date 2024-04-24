@@ -33,7 +33,11 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
-- [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools 
+- [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
+
+## B 
+- [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+
 
 ## F
 
