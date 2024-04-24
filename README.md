@@ -10,6 +10,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - **Base on start letter:**
   - [A](#a)
+  - [B](#b)
   - [F](#f)
   - [G](#g)
   - [I](#i)
