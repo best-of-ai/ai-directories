@@ -39,6 +39,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
+- [🥳 funfun](https://www.funfun.tools/) - The Best AI Tools Directory on 🌎
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
 
