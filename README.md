@@ -50,6 +50,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## G
 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
+- [God of Prompt] (https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 
 ## I
 
