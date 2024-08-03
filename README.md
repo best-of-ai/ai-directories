@@ -11,6 +11,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
+  - [E](#e)
   - [F](#f)
   - [G](#g)
   - [I](#i)
@@ -23,6 +24,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## A
 
+- [Altern](https://altern.ai) - Find almost anything related to AI
 - [AIDir.wiki](https://www.aidir.wiki/) - Discover the Latest AI Tools and Software to Take Your Business to the Next Level
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
@@ -35,10 +37,15 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
+- [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
+
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
+
+## E
+- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools 
 
 ## F
 
@@ -50,6 +57,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## G
 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
+- [God of Prompt] (https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 
 ## I
 
