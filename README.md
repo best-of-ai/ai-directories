@@ -10,6 +10,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - **Base on start letter:**
   - [A](#a)
+  - [E](#e)
   - [F](#f)
   - [G](#g)
   - [I](#i)
@@ -35,6 +36,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
+
+## E
+- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools 
 
 ## F
 
