@@ -63,6 +63,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 
+## N
+
+- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
+
 ## O
 
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
