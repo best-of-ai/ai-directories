@@ -81,6 +81,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## S
 
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
+- [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 
 ## T
 
