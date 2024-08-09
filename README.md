@@ -42,6 +42,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+- [BeyondX](https://www.getbeyondx.com/ai-speech-coach) - AI Speech Coach.
 
 
 ## E
