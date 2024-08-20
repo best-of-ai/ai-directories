@@ -38,7 +38,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
-
+- [AI Tool Trek](https://aitooltrek.com/) - Curated list of latestnet AI tools & AI News.
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
