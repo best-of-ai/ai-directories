@@ -89,6 +89,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+- [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet. 
 
 # Add Yours
 
