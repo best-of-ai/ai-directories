@@ -22,6 +22,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## A
 
+- [AiToolsBoard](https://www.aitoolsboard.com) - Top AI Tools to Boost Your Business and Personal Productivity
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
