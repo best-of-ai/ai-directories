@@ -75,6 +75,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
 
+## R
+-  [ROCKEYE SOLUTIONS](https://www.rockeye.com/) - Powerful Cloud-Based ERP Software Solution 
+
 ## S
 
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
