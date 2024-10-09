@@ -75,7 +75,6 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
-- [Pugin](https://pugin.ai/) - Discover AI Plugins
 
 ## S
 
