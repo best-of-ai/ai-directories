@@ -28,6 +28,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
+- [AI-Tools Directory](https://ai-tools.directory) - A directory of AI tools curated by AI itself
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
