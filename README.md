@@ -91,6 +91,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet. 
+- [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 
 # Add Yours
 
