@@ -38,6 +38,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
 - [AI Tool Trek](https://aitooltrek.com/) - Curated list of latestnet AI tools & AI News.
 - [All The AI Tools](https://alltheaitools.com/) - Explore our comprehensive AI Tools Directory. Find, compare, and choose the best AI tools for your needs.
+- [AI Humanize](https://aihumanize.io/) - Humanize AI Text & AI Humanizer Online
+
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
