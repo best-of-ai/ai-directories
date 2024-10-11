@@ -40,6 +40,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [All The AI Tools](https://alltheaitools.com/) - Explore our comprehensive AI Tools Directory. Find, compare, and choose the best AI tools for your needs.
 
 ## B 
+- [Bestppt AI](https://bestppt.ai) - AI Presentation Maker. Create presentations with AI in 3 minutes.
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
 
