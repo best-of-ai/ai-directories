@@ -9,6 +9,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
+  - [D](#d)
   - [E](#e)
   - [F](#f)
   - [G](#g)
@@ -44,6 +45,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
+## D 
+- [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools 
