@@ -44,7 +44,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
-- [Bestppt AI(https://bestppt.ai)] - AI Presentation Maker. Create presentations with AI in 3 minutes.
+- [Bestppt AI](https://bestppt.ai) - AI Presentation Maker. Create presentations with AI in 3 minutes.
 
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
