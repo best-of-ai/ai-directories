@@ -25,7 +25,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
--  [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
+- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
+- [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
