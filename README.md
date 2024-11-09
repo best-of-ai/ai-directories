@@ -14,6 +14,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
   - [F](#f)
   - [G](#g)
   - [I](#i)
+  - [M](#m)
+  - [N](#n)
   - [O](#o)
   - [P](#p)
   - [S](#s)
@@ -67,6 +69,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## I
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+
+## M
+
+- [Marketing Tools] - a curated list of marketing tools in various categories
 
 ## N
 
