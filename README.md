@@ -72,7 +72,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## M
 
-- [Marketing Tools] - a curated list of marketing tools in various categories
+- [Marketing Tools](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 
 ## N
 
