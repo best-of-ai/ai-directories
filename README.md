@@ -87,6 +87,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [PostPulse](https://post-pulse.io) - AI Powered SEO Post generation on a Network of Top Level Domains
 
 ## S
 
