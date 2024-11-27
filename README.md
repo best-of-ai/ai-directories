@@ -90,6 +90,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [PostPulse](https://post-pulse.io) - AI Powered SEO Post generation on a Network of Top Level Domains
 
 ## S
 
