@@ -88,6 +88,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Presubmit - AI Code Reviewer](https://presubmit.ai) - Context-aware AI reviewer for Pull Requests (Instant summary, line-by-line comments, title generation and more)
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
