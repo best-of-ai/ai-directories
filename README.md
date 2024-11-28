@@ -2,7 +2,7 @@
 
 Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product team, this resource is your one-stop destination to explore a variety of directories that can help boost the visibility of your AI innovations. We've meticulously gathered and organized these directories, making it easier than ever to connect with platforms that showcase cutting-edge AI solutions. Join us in fostering collaboration and recognition within the AI community by leveraging this comprehensive list.
 
-Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://productivity.directory)*
+Sponsors: _[Altern AI](https://altern.ai)_, _[Productivity Directory](https://productivity.directory)_
 
 ## Table of Content
 
@@ -20,7 +20,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [P](#p)
   - [S](#s)
   - [T](#t)
-  
 
 ## Featured Directories
 
@@ -30,7 +29,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
--  [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
+- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
@@ -39,7 +38,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
-- [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools 
+- [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
@@ -47,14 +46,17 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [All The AI Tools](https://alltheaitools.com/) - Explore our comprehensive AI Tools Directory. Find, compare, and choose the best AI tools for your needs.
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 
-## B 
+## B
+
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
-## D 
+## D
+
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
-- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools 
+
+- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
 
 ## F
 
@@ -79,7 +81,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## N
 
-- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
+- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 
 ## O
 
@@ -88,6 +90,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Presubmit - AI Code Reviewer](https://presubmit.ai) - Context-aware AI reviewer for Pull Requests (Instant summary, line-by-line comments, title generation and more)
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
@@ -99,17 +102,16 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
-- [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
+- [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
-- [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
+- [Top AI Tools Hub](https://www.topaitoolshub.com/) -
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
-- [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet. 
+- [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 
 # Add Yours
 
 Feel Free to add your AI Directory To this list
-
