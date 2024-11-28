@@ -29,6 +29,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## A
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AIDive](https://www.aidive.org/) - Explore a vast catalog of neural networks and AI tools with detailed reviews and insights.
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 -  [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
