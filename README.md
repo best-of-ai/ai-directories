@@ -73,6 +73,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 
+## J
+- [Job Match Pro](https://www.mployee.me/job-match-pro) - Best sites to find jobs based on your resume and skills
+
 ## M
 
 - [Marketing Tools](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
@@ -91,6 +94,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
+## R
+- [Resume Scan](https://www.mployee.me/resumescan) - A Free ATS Resume Checker that can help you get more interview calls
+- [Resume Keywords](https://www.mployee.me/keywords) - The Tool can help you find keywords for resume based on Job Description
 ## S
 
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
