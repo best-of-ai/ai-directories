@@ -99,6 +99,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
