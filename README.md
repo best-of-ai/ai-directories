@@ -50,6 +50,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
+## C
+- [ChatGPT Toolbox](https://chromewebstore.google.com/detail/chatgpt-toolbox/jlalnhjkfiogoeonamcnngdndjbneina) - Enhance ChatGPT: export chats, create folders, pin chats, save prompts & much more.
+
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
