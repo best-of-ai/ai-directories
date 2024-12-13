@@ -85,6 +85,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
 - [OpenFuture AI](https://openfuture.ai/) - Largest Tools Directory, Fastest Update, The Most Accurate Database
+- [Orbic AI](https://orbic.ai) - Largest GPT Store And AI Tools Directory
 
 ## P
 
