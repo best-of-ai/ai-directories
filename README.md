@@ -51,6 +51,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+- [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
