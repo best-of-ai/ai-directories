@@ -100,10 +100,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 
 ## T
-
+- [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
-- [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
