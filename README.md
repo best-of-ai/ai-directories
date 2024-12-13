@@ -83,7 +83,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## M
 
-- [Marketing Tools](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
+- [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 
 ## N
 
