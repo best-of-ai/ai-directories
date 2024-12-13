@@ -118,6 +118,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
+- [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 
 # Add Yours
 
