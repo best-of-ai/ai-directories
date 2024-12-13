@@ -56,7 +56,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
-- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools 
+- [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
+- [Expify](https://www.expify.ai) - Biggest AI tools directory in the plannet.
 
 ## F
 
