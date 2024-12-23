@@ -120,6 +120,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 
+## W
+- [Whatsthebigdata.com](https://whatsthebigdata.com/) - Discover the best AI tools directory!
+
 # Add Yours
 
 Feel Free to add your AI Directory To this list
