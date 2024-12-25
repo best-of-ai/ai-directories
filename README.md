@@ -51,6 +51,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 - [AI Tools For Me](https://aitoolsforme.com/) - Growing AI Directory Tools.
 - [AI Tool List](https://www.aitoollist.org) - An awesome directory of AI tools
+- [Answer HQ](https://answerhq.co) - AI-powered customer support assistant for startups and e-commerce
 
 
 ## B 
