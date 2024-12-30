@@ -106,6 +106,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
+- [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 
 ## T
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
