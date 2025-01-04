@@ -110,6 +110,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 - [Sales Tools AI](https://salestoolsai.top/) - Find AI Tools that increase your sales
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
+- [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 
 ## T
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
