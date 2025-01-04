@@ -32,6 +32,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
 -  [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
+-  [AI Hubs](https://aihubs.ai/) - The best AI tools directory to help you find the latest and most powerful AI applications.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
