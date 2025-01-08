@@ -20,6 +20,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [P](#p)
   - [S](#s)
   - [T](#t)
+  - [Y](#y)
   
 
 ## Featured Directories
@@ -127,6 +128,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
+
+## Y
+- [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
 
 # Add Yours
 
