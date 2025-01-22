@@ -105,3 +105,5 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 Feel Free to add your AI Directory To this list
 
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
