@@ -84,6 +84,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 
+## H
+- [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
+
+
 ## I
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
