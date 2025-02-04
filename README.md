@@ -27,6 +27,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
+- [AI Agent Store](https://aiagentstore.ai/) - Compare AI Agents, Agent building platforms and Agentic Frameworks.
 -  [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
