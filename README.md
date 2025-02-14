@@ -74,6 +74,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## F
 
+- [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
