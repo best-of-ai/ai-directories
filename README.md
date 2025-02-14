@@ -32,9 +32,11 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
+- [AI Agents Live](https://aiagentslive.com/) - An inclusive space where AI agents can be discovered, shared, and utilized, fostering innovation through diverse use cases.
 - [AI Hubs](https://aihubs.ai/) - The best AI tools directory to help you find the latest and most powerful AI applications.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
+- [AI Respo](https://airespo.com) - Find AI tools and learning resources.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
@@ -53,13 +55,13 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 - [AI Tools For Me](https://aitoolsforme.com/) - Growing AI Directory Tools.
 - [AI Tool List](https://www.aitoollist.org) - An awesome directory of AI tools
+- [AI Journey] (https://aijourney.so) - offers expert reviews and insights on AI tools to help individuals and businesses succeed by leveraging the best AI technology.
 - [AiToolz](https://aitoolz.net)Find useful AI tools.
 - [AI Parabellum](https://aiparabellum.com) - Find Tomorrow's AI Tools Today
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
 - [AI Agents Base](https://aiagentsbase.com)  - Your All-in-One AI Agents Directory
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
-- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
-
+- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
@@ -74,6 +76,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## F
 
+- [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
@@ -84,6 +87,11 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
+- [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
+
+## H
+- [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
+
 
 ## I
 
@@ -99,6 +107,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## O
 
+- [OpenSaasDirectory](https://opensaas.directory/) - Discover and explore the best open-source SaaS projects.
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
 - [OpenFuture AI](https://openfuture.ai/) - Largest Tools Directory, Fastest Update, The Most Accurate Database
 - [Orbic AI](https://orbic.ai) - Largest GPT Store And AI Tools Directory
@@ -116,6 +125,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Sales Tools AI](https://salestoolsai.top/) - Find AI Tools that increase your sales
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
+- [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
 
 ## T
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
