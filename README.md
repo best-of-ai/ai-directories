@@ -70,6 +70,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
+- [Gift Idea Generator AI](https://daruy.space/) - Personalized Gift Idea suggestions finder (FREE).
 
 ## E
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
