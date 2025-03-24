@@ -140,7 +140,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
-- [TrustedBy](https://www.trustedby.ai/) - AI tools trusted by top business leaders, operators & professionals.
+- [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 
 ## V
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
