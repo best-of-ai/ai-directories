@@ -34,6 +34,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
 - [AI Agents Live](https://aiagentslive.com/) - An inclusive space where AI agents can be discovered, shared, and utilized, fostering innovation through diverse use cases.
 - [AI Hubs](https://aihubs.ai/) - The best AI tools directory to help you find the latest and most powerful AI applications.
+- [AiMatchPro](https://aimatch.pro/) -Directory making it easy to find an ai tool for your specific usecase by matching a stack of tools with a search query.
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 - [AI Respo](https://airespo.com) - Find AI tools and learning resources.
