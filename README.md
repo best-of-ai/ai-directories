@@ -48,6 +48,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools
 - [AI Tools Magazine](https://aitoolsmagazine.com/) - Find the Best AI Tools & Increase Your Productivity by 10x
+- [ALL AI TOOLS .TECH DIRECTORY](https://allaitools.tech/) - Best AI Tools Directory, Find and Compare Tools, Powered by AI Recommendation System
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
