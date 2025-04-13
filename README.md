@@ -127,7 +127,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
-
+- [Submitaitools.org](https://submitaitools.org/) - Unleash AI’s Potential: Discover Tools, Drive Innovation
 ## T
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
