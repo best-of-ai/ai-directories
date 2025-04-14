@@ -9,10 +9,12 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
+  - [C](#c)
   - [D](#d)
   - [E](#e)
   - [F](#f)
   - [G](#g)
+  - [H](#h)
   - [I](#i)
   - [M](#m)
   - [N](#n)
@@ -68,8 +70,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 
-## C 
+ ## C
+- [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
+
 
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
@@ -95,7 +99,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## H
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
-
+- [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 
 ## I
 
@@ -130,6 +134,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
+- [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
 ## T
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
