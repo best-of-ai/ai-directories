@@ -16,6 +16,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [G](#g)
   - [H](#h)
   - [I](#i)
+  - [L](#l)
   - [M](#m)
   - [N](#n)
   - [O](#o)
@@ -107,6 +108,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## I
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+
+## L
+
+- [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 
 ## M
 
