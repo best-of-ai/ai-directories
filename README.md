@@ -29,7 +29,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## A
 
-- [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
@@ -64,6 +63,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents Base](https://aiagentsbase.com)  - Your All-in-One AI Agents Directory
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
+- [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
