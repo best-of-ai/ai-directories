@@ -110,6 +110,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## I
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+- [IA sur mesure](https://iasurmesure.com/) - A french directory
 
 ## L
 
