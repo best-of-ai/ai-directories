@@ -43,6 +43,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 - [AI Respo](https://airespo.com) - Find AI tools and learning resources.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
+- [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools 
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
