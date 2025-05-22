@@ -24,7 +24,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [S](#s)
   - [T](#t)
   - [Y](#y)
-  
 
 ## Featured Directories
 
@@ -63,7 +62,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 - [AI Tools For Me](https://aitoolsforme.com/) - Growing AI Directory Tools.
 - [AI Tool List](https://www.aitoollist.org) - An awesome directory of AI tools
-- [AI Journey] (https://aijourney.so) - offers expert reviews and insights on AI tools to help individuals and businesses succeed by leveraging the best AI technology.
+- [AI Journey] (<https://aijourney.so>) - offers expert reviews and insights on AI tools to help individuals and businesses succeed by leveraging the best AI technology.
 - [AiToolz](https://aitoolz.net)Find useful AI tools.
 - [AI Parabellum](https://aiparabellum.com) - Find Tomorrow's AI Tools Today
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
@@ -72,20 +71,23 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 
-## B 
+## B
+
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
 
- ## C
+## C
+
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
 
+## D
 
-## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
+
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
 - [Expify](https://www.expify.ai) - Biggest AI tools directory in the plannet.
 
@@ -103,8 +105,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
+- [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
 
 ## H
+
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 
@@ -122,7 +126,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## N
 
-- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
+- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 
 ## O
 
@@ -148,8 +152,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
 ## T
+
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
-- [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
+- [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
@@ -163,12 +168,13 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 
 ## V
+
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## Y
+
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
 
 # Add Yours
 
 Feel Free to add your AI Directory To this list
-
