@@ -31,7 +31,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - **[Productivity Directory](https://productivity.directory)** - Find, Search & Review AI Productivity Tools
 
 ## A
-
+- [Aadhunik AI](https://aadhunik.ai/) – Discover everything AI at Aadhunik—your one-stop hub for real-time AI news, powerful tools and more
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
