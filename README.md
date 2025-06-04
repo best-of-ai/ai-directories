@@ -84,7 +84,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
-- [Dynamite AI](https://dessign.net/) - AI Tools Directory.
+- [Dessign](https://dessign.net/) - AI Tools Directory.
 
 ## E
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
