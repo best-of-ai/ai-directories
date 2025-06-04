@@ -71,6 +71,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
+- [AI Tool Kit](https://aitoolkit.io) - Discover the best AI Tool Kit in our Directory.
+- [AI Extension](https://aiextension.ai) - Discover the best AI Extension in our Directory.
+
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
@@ -135,6 +138,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [Productivity Rule](https://product-rule.com) - A curated productivity rule 
 
 ## S
 
