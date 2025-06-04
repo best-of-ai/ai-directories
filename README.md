@@ -24,6 +24,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [S](#s)
   - [T](#t)
   - [Y](#y)
+  - [W](#w)
   
 
 ## Featured Directories
@@ -167,6 +168,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## Y
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
+
+## W
+- [WTCraft.com](https://wtcraft.com/) - WTCraft.com is a curated directory focused on tech tools, developer resources, and SaaS alternatives.
 
 # Add Yours
 
