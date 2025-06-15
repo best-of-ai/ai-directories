@@ -116,6 +116,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## L
 
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
+- [LrGeniusTagAI](https://lrgenius.com) - Tag Smarter, Not Harder. A plugin for Lightroom classic, to generate keywords and more.
 
 ## M
 
