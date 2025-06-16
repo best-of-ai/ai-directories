@@ -72,6 +72,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
+- [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
