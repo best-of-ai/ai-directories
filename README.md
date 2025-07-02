@@ -85,6 +85,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 
 ## D 
+- [Datalook.io](https://datalook.io/) - Discover the best AI tools, data science resources.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
