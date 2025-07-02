@@ -85,6 +85,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 
 ## D 
+- [DataLook.io](https://datalook.io/) - Discover the best AI tools, data science resources, and the latest insights in artificial intelligence.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
 ## E
@@ -166,6 +167,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## V
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
+
+## W
+-[WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
 
 ## Y
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
