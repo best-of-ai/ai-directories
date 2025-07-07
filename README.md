@@ -34,6 +34,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org) - Submit Your AI Tools 
+- [AI/ML API](https://aimlapi.com/app/?utm_source=ai-directories&utm_medium=github&utm_campaign=integration) - The AI/ML API provides 300+ AI models, including Deepseek, Gemini, and ChatGPT. These models operate with enterprise-class rate limiting and uptime.
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
