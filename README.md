@@ -118,6 +118,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## L
 
+- [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 
 ## M
