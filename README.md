@@ -79,11 +79,11 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
+- [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
 
 
 ## B
 =======
-
 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
