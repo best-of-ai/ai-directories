@@ -46,6 +46,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Resource Pro](https://airesource.pro) - Create your AI learning roadmap or explore our curated collection of top AI tools, news, and resources.
 - [AI Respo](https://airespo.com) - Find AI tools and learning resources.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
+- [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools 
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
