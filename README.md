@@ -86,6 +86,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+- [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
 
