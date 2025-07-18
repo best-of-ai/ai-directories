@@ -157,6 +157,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [PRWeb.in](https://www.prweb.in/) – India-based press release distribution platform that promotes AI startups, tools, and companies through media visibility.
+
 
 ## S
 
