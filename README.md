@@ -175,7 +175,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
-- [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
+- [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
 - [.Tech AI TOOLS ](https://allaitools.tech) - No 1 AI Tools and Agents directory, spam-free, AI-Powered recommendations, Worthy Newsletter
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
@@ -185,6 +185,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
+- [Tools Hub AI](https://toolshubai.com/) - Explore the best AI tools for every task
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
