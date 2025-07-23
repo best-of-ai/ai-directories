@@ -193,6 +193,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## V
 
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
+- [VideoTube](https://videotube.ai/) - All-in-One AI Video & Shorts Creation Platform
 
 ## W
 -[WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
