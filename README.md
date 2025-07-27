@@ -40,7 +40,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
 - [AI Agents Live](https://aiagentslive.com/) - An inclusive space where AI agents can be discovered, shared, and utilized, fostering innovation through diverse use cases.
-- [AI Agents Marketplace](https://trillionagent.com/) - A marketplace of AI agents, natural language searchable by task or use case.
+- [AI Agents Marketplace](https://trillionagent.com/) - A marketplace of AI agents, natural language searchable by task or use case. Categorized according to over 300 human role equivalents.
 - [AI Hubs](https://aihubs.ai/) - The best AI tools directory to help you find the latest and most powerful AI applications.
 - [AI Library](https://www.theailibrary.co/) - A powerful AI Tools Directory with 500+ tools for every need, from productivity to creativity. 
 - [AiMatchPro](https://aimatch.pro/) -Directory making it easy to find an ai tool for your specific usecase by matching a stack of tools with a search query.
