@@ -170,10 +170,12 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
+- [Spicy Ranks AI](https://spicyranks.ai/) - Tier list & ranking directory for AI character chatting applications. 
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 - [Sales Tools AI](https://salestoolsai.top/) - Find AI Tools that increase your sales
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
+- [Secret Desires AI](https://secretdesires.ai/) - Top AI character chatting application.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
