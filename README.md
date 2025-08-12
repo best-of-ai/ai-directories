@@ -83,6 +83,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 - [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
+- [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 
 ## B
 =======
