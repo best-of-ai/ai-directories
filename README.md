@@ -52,7 +52,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools 
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
-- [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
+- [AI Tools Directory](https://aidirectory.wiki/) - Curated list of AI tools
 - [AISuperSmart](https://www.aisupersmart.com/ai-tools-directory/) - 1500+ Ai Tools Which Update's Daily And Provide Ai News to World
 - [AI-Tools Directory](https://ai-tools.directory) - A directory of AI tools curated by AI itself
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
