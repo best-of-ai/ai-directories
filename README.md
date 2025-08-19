@@ -82,6 +82,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 - [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
+- [Async Agents](https://github.com/ggzy12345/async-agents/) - A lightweight typescript AI agents framework for building concurrent applications with strong flow control.
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 
