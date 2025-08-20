@@ -86,8 +86,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 
 ## B
-=======
 
+- [Best of AI](https://bestofai.io) - List of just best AI Tools
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
 - [Best of Web](https://www.bestofweb.site) – Startup and founder directory. Easy and fast to submit, includes a free dofollow backlink.
