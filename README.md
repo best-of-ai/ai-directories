@@ -170,6 +170,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [Shiori](https://wwww.shiori.ai/?ref=github-awesome-ai-tools) - Best ChatGPT Alternative at $8/m with Image & Video Generation, and YouTube & Notion Integration
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
