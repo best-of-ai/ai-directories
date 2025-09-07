@@ -146,6 +146,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## M
 
+- [Magia Trade](https://magiatrade.com) - Empowering traders with intelligent AI agents for smarter market analysis and trading insights.
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 
