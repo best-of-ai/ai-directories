@@ -33,6 +33,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## A
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AI Directory](https://aidirectory.wiki) - No. 1 AI Tools Directory
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
