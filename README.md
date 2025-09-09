@@ -204,6 +204,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## W
 -[WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
+-[Writingmate.ai](https://writingmate.ai/free-tools) - Free AI Productivity Tools
 
 ## Y
 
