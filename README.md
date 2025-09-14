@@ -168,6 +168,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [PixPal](https://pixpal.chat) - Free AI Chat with Image Generation and Editing
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
