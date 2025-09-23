@@ -157,6 +157,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
+- [NanoPhoto.AI](https://nanophoto.ai) - Making AI photo editing simple and efficient
 
 ## O
 
