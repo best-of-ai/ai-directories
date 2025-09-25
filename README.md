@@ -124,6 +124,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
 - [flowtools](https://www.flowtools.co) - Your first stop for smart AI tool decisions
+- [Fullscore](https://fullscore.digital/)) - Best YouTube Growth Tool with AI Optimizations
   
 ## G
 
