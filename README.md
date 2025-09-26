@@ -95,6 +95,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Best of Web](https://www.bestofweb.site) – Startup and founder directory. Easy and fast to submit, includes a free dofollow backlink.
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
+- [BuildVoyage](https://buildvoyage.com/) - A micro-saas directory for AI projects where the journey is what matters!
 
 ## C
 
