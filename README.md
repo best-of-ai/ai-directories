@@ -171,6 +171,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
+## R
+
+- [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses
+
 ## S
 
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
