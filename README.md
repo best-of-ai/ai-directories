@@ -157,6 +157,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## M
 
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
+- [Malibu AI](https://malibuai.xyz) - AI influencer generator for building consistent digital personas
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 
 
