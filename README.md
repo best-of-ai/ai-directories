@@ -112,6 +112,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Dessign](https://dessign.net/) - AI Tools Directory.
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
+- [Dutch AI Headshot Generator](https://www.freelance-platform.nl/professionele-profielfoto-linkedin-maken-met-ai) - AI Headshot Generator for Dutch freelancers and professionals
 
 ## E
 
