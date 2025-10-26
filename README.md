@@ -159,6 +159,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
+- [Medical Headshots Generator](https://makehot.ai/medical-headshots) - AI Headshots Generator for psysicians, nurses, medical students, and other healthcare professionals
 
 
 ## N
