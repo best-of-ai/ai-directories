@@ -32,6 +32,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## A
 
+- [AI.lookingfor.click](https://AI.lookingfor.click/) - 100% free AI image generator, editor, upscaler and background remover that does not require any credits, subscriptions or logins
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
