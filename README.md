@@ -88,6 +88,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 - [Ask AI For It](https://askaiforit.com) - AI Tools and SaaS Directory to boost your productivity at work and in life.
+- [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 
 ## B
 
@@ -210,6 +211,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+
+## U
+- [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
 
 ## V
 
