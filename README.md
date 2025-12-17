@@ -147,6 +147,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [IA sur mesure](https://iasurmesure.com/) - A french directory
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+- [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 
 ## L
 
