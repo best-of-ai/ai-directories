@@ -134,6 +134,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [FastLaunch](https://fastlaunch.io/) - FastLaunch - Launch & Discover Amazing Products  
 ## G
 
+- [Geekflare Connect](https://geekflare.com/ai/connect) - Multi Chat AI Client with Your Own Key. Chat with multiple AI models from one UI. 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
