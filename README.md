@@ -167,6 +167,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## O
 
+- [OBSIDIAN Neural](https://obsidian-neural.com) - VST3 plugin for real-time AI music generation.
 - [OpenHunts](https://openhunts.com/) - Launch and hunt products openly - A platform for discovering and showcasing new products and tools
 - [OpenSaasDirectory](https://opensaas.directory/) - Discover and explore the best open-source SaaS projects.
 - [OpenTools](https://opentools.ai/) - Chat with our GPT to find the right AI tool for you
