@@ -88,6 +88,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 - [Ask AI For It](https://askaiforit.com) - AI Tools and SaaS Directory to boost your productivity at work and in life.
+- [AI Shortcut Lab](https://aishortcutlab.com) - A strategic hub that categorizes AI tools, providing selection clarity through highlighted use cases and offering specialized AI toolsets for professionals.
 
 ## B
 
