@@ -158,6 +158,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
+- [Moire Removal](https://moireremoval.com) - AI-powered moiré pattern removal for screen photos and scanned prints
 
 
 ## N
