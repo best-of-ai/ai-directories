@@ -210,6 +210,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+- **TheAgentDB** – Curated AI agent directory for developers (2026): https://www.theagentdb.com
 
 ## V
 
