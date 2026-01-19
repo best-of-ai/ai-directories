@@ -104,6 +104,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ClaudePro.directory](https://claudepro.directory/) - The unofficial home for Claude enthusiasts. Explore expert rules, browse powerful MCP servers, find specialized agents and commands, discover automation hooks, and connect with the community building the future of AI.
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
+- [CreativeMindsAI](https://creativemindsai.pixloger.com/) - A curated directory of AI-powered creative tools for image, video, and audio generation.
+Discover, compare, and explore AI solutions for designers, creators, and content teams in one place.
 
 ## D
 
@@ -137,6 +139,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
+- [GoPickHost Tools](https://gopickhost.com/tools/) - Eplore hosting related AI tools. Discover AI solutions for hosting automation, performance optimization, security, and customer support in one place.
 
 ## H
 
