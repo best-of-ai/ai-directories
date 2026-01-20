@@ -139,7 +139,7 @@ Discover, compare, and explore AI solutions for designers, creators, and content
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
-- [GoPickHost Tools](https://gopickhost.com/tools/) - Eplore hosting related AI tools. Discover AI solutions for hosting automation, performance optimization, security, and customer support in one place.
+- [GoPickHost Tools](https://gopickhost.com/tools/) - Explore hosting related AI tools. Discover AI solutions for hosting automation, performance optimization, security, and customer support in one place.
 
 ## H
 
