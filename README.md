@@ -72,6 +72,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 - [AI Tools For Me](https://aitoolsforme.com/) - Growing AI Directory Tools.
 - [AI Tool List](https://www.aitoollist.org) - An awesome directory of AI tools
+- [AI Tools Hub](https://richlyai.com/ai-tools/) - Submit your AI tools
 - [AI Journey] (https://aijourney.so) - offers expert reviews and insights on AI tools to help individuals and businesses succeed by leveraging the best AI technology.
 - [AiToolz](https://aitoolz.net)Find useful AI tools.
 - [AI Toolz Dir](https://www.aitoolzdir.com) - Submit your AI Tool to aitoolzdir and get a DR 27 Backlink for free
