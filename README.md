@@ -4,6 +4,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## Table of Content
 
+Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://productivity.directory)*
+
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
