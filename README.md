@@ -6,6 +6,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## Table of Content
 
+- [TubePrompter](https://tubeprompter.com) - Free video-to-prompt tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for AI generators like Sora, Midjourney, and Runway
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
