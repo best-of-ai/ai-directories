@@ -117,7 +117,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
-
+- [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
+- 
 ## E
 
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
@@ -169,7 +170,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
-
+- [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
 ## O
 
 - [OpenHunts](https://openhunts.com/) - Launch and hunt products openly - A platform for discovering and showcasing new products and tools
