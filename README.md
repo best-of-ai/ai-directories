@@ -97,6 +97,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Headshot Hub](https://aiheadshothub.com/) - Compare top AI headshot generators with detailed reviews, pricing breakdowns, and real examples.
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
+- [AI.lookingfor.click](https://AI.lookingfor.click)) - 100% free and unlimited AI image generator, editor, upscaler and background remover that does not require any limits, credits, subscriptions, signups or logins
 
 
 ## B
