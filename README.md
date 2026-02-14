@@ -70,6 +70,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ALL AI TOOLS .TECH DIRECTORY](https://allaitools.tech/) - Best AI Tools Directory, Find and Compare Tools, Powered by AI Recommendation System
 - [Altern](https://altern.ai) - Your Gateway to the AI Universe
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
+- [AiToolex](https://aitoolex.com/) - Explore Best AI Tools on AiToolex. Submit your tool.
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
 - [AI Tool Trek](https://aitooltrek.com/) - Curated list of latestnet AI tools & AI News.
 - [All The AI Tools](https://alltheaitools.com/) - Explore our comprehensive AI Tools Directory. Find, compare, and choose the best AI tools for your needs.
