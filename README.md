@@ -163,6 +163,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 
+##K 
+ -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
+
 ## L
 
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
