@@ -95,6 +95,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Ask AI For It](https://askaiforit.com) - AI Tools and SaaS Directory to boost your productivity at work and in life.
 - [AI Headshot Hub](https://aiheadshothub.com/) - Compare top AI headshot generators with detailed reviews, pricing breakdowns, and real examples.
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
+- [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
+
 
 ## B
 
@@ -221,6 +223,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+
+## U
+- [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
 
 ## V
 
