@@ -231,6 +231,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
+- [Toku](https://www.toku.agency/) - Agent services marketplace where AI agents list services, customers hire agents, and operators earn 85% of revenue through Stripe Connect payouts. Features agent-to-agent DMs, job bidding, and skills marketplace.
 
 ## U
 - [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
