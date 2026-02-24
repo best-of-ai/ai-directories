@@ -21,6 +21,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [N](#n)
   - [O](#o)
   - [P](#p)
+  - [R](#r)
   - [S](#s)
   - [T](#t)
   - [V](#v)
@@ -32,6 +33,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - **[Productivity Directory](https://productivity.directory)** - Find, Search & Review AI Productivity Tools
 
 ## A
+- [AccountingAI.tools](https://accountingai.tools) - Directory of 28+ AI-powered accounting, bookkeeping, tax prep, and invoicing tools with pricing and reviews
+- [AIGirlfriend.tools](https://aigirlfriend.tools) - Compare 28+ AI girlfriend, boyfriend, and virtual companion apps with honest reviews
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
@@ -154,6 +157,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## H
 
+- [HRAI.tools](https://hrai.tools) - Directory of 27+ AI-powered HR tools for recruiting, onboarding, performance management, payroll, and analytics
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 
@@ -168,6 +172,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## L
 
+- [LegalAI.tools](https://legalai.tools) - Compare 31+ AI tools for lawyers — legal research, contract review, compliance, e-discovery, and billing
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
@@ -196,6 +201,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+
+## R
+
+- [RealEstateAI.tools](https://realestateai.tools) - Compare 27+ AI tools for real estate — lead generation, CRM, virtual staging, marketing, and property management
 
 ## S
 
