@@ -212,6 +212,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
+- [TutuoAI](https://www.tutuoai.com/) - Agent-native marketplace for skills/tools/configs (machine-readable APIs)
+
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [theaisurf](https://theaisurf.com/) - Discover Top AI Tools in One Clean Directory
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
