@@ -238,6 +238,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## V
 
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
+- [VoiceClaw](https://voiceclaw.io) - Open-source voice interface for any AI. Talk to Ollama, Claude, GPT-4, LM Studio from any browser or phone. Self-hostable, BYOK, MIT licensed.
 
 ## W
 -[Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
