@@ -231,6 +231,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
+- [TestDino](https://testdino.com/) - AI-powered, Playwright-native test reporting and analytics for UI and API tests that centralizes CI runs, detects flaky tests, and surfaces actionable failure insights.
+
 
 ## U
 - [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
