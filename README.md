@@ -240,8 +240,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## W
--[Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
--[WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
+- [Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
+- [WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/legacy/README.md) - Framework for diagnosing RAG and LLM pipeline failures
 
 ## Y
 
