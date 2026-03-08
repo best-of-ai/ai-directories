@@ -40,7 +40,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AIDir](https://aidir.wiki) - The first AI Directory of the world, Since 2022!
 - [AI Directory](https://aidirectory.wiki) - Curated collection of AI-powered tools for productivity, creativity, and business.
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
-- [AI For Developers](https://aifordevelopers.org) - A curated list of AI DevTools 
+- [AI For Code](https://aiforcode.io) - Expert-curated directory of 41 AI coding tools with 100-point scoring, monthly verification, and 40+ side-by-side comparisons
+- [AI For Developers](https://aifordevelopers.org) - A curated list of AI DevTools
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
 - [AI Agents Live](https://aiagentslive.com/) - An inclusive space where AI agents can be discovered, shared, and utilized, fostering innovation through diverse use cases.
