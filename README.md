@@ -83,6 +83,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Toolz Dir](https://www.aitoolzdir.com) - Submit your AI Tool to aitoolzdir and get a DR 27 Backlink for free
 - [AI Parabellum](https://aiparabellum.com) - Find Tomorrow's AI Tools Today
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
+- [agent101](https://agent101.ventify.ai) - Open directory of 300+ AI tools across 15 categories with MCP server, API, and raw markdown for agent-native discovery.
 - [AI Agents Base](https://aiagentsbase.com) - Your All-in-One AI Agents Directory
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
