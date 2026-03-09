@@ -97,6 +97,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Headshot Hub](https://aiheadshothub.com/) - Compare top AI headshot generators with detailed reviews, pricing breakdowns, and real examples.
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
+- [AIShortGen](https://aishortgen.com) - AI Short Video Generator — create faceless reels with script, voiceover, and stock footage in under 60 seconds
+
 
 
 ## B
