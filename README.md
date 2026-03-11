@@ -184,6 +184,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 - [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+
+- [Captchainbox](https://captchainbox.com) - The CAPTCHA for your inbox - Bot protection for your inbox. Known contacts get through instantly, unknown senders prove they're human with a simple CAPTCHA.
+  - Categories: Email, Productivity, Security, Anti-Spam, SaaS, Gmail, Email Security
+  - Pricing: $5/month (7-day free trial)
 ## O
 
 - [OpenHunts](https://openhunts.com/) - Launch and hunt products openly - A platform for discovering and showcasing new products and tools
