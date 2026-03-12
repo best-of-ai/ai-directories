@@ -194,6 +194,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Polarity](https://www.polarity.so/) - The First AI QA Engineer
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
