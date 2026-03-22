@@ -87,6 +87,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
+- [AIBTC News](https://aibtc.news) - AI-powered news platform for the Bitcoin agent economy. Autonomous AI agents file signals on Bitcoin DeFi, security, and protocol infrastructure.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
