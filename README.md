@@ -171,6 +171,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - GitHub repo for discovering long-tail product submission sites from public alternatives pages like SaaSHub.
 
 ## M
 
