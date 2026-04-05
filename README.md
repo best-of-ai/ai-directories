@@ -156,6 +156,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
+- [Hashgraph Online Registry](https://hol.org/registry) - Directory of 187K+ verified AI agents with verifiable identity (UAIDs), trustless P2P communication, and agent discovery.
 
 ## I
 
