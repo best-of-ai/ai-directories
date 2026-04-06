@@ -4,6 +4,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://productivity.directory)*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Free and open-source, MIT licensed.
 ## Table of Content
 
 - **Base on start letter:**
