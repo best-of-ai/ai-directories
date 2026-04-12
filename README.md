@@ -158,6 +158,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 
 ## I
+- [igly.ai](https://www.igly.ai/) - Free all-in-one AI image editor with 12+ tools for generation, editing, background removal, inpainting, restoring, and upscaling in one workspace.
 
 - [IA sur mesure](https://iasurmesure.com/) - A french directory
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
