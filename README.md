@@ -135,6 +135,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## F
 
+- [Igly](https://igly.ai) - Free AI image editor for e-commerce and content teams, with background removal, image generation, upscale, restore, inpaint, and canvas editing.
+
 - [Find An AI Tools](https://findanaitools.com) - No 1 AI Aggregator
 - [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
