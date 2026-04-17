@@ -184,6 +184,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 - [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+- [Not Human Search](https://nothumansearch.ai) - Agent-first search engine and directory. Indexes 8,000+ AI tools and MCP servers ranked by agentic readiness (llms.txt, OpenAPI, ai-plugin, MCP, structured API). Free to submit at /submit — no account required. Unique angle: ranks tools by how agent-usable they are, not just human-usable.
 ## O
 
 - [OpenHunts](https://openhunts.com/) - Launch and hunt products openly - A platform for discovering and showcasing new products and tools
