@@ -125,7 +125,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
 - [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
-- 
+- [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev/) - Real-time pricing comparison and benchmark suite for 61+ AI coding models with interactive tools and public API.- 
 ## E
 
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
