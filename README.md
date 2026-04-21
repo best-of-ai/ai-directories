@@ -177,6 +177,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
+- [Makerhunt](https://makerhunt.io) - Join makers shipping every week on MakerHunt. One weekly hunt, real votes, and people who try new products first.
 
 
 ## N
@@ -209,6 +210,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
+- [Sidehunt](https://sidehunt.io) - Sidehunt is where side projects and indie launches go live each week—real votes, one competition, and hunters who actually try new products.
 
 ## T
 
