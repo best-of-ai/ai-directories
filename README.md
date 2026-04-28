@@ -230,6 +230,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
+- [TryAnAI](https://tryanai.com/) - Verified AI tools with real pricing, liveness checks, and quality scores. No stale links.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
 
