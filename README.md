@@ -35,6 +35,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## A
 - [AccountingAI.tools](https://accountingai.tools) - Directory of 28+ AI-powered accounting, bookkeeping, tax prep, and invoicing tools with pricing and reviews
 - [AIGirlfriend.tools](https://aigirlfriend.tools) - Compare 28+ AI girlfriend, boyfriend, and virtual companion apps with honest reviews
+- [AIHumanizer.tools](https://aihumanizer.tools) - Compare AI humanizer and text rewriting tools side by side with features, pricing, and reviews
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
@@ -108,6 +109,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
 - [Best of Web](https://www.bestofweb.site) – Startup and founder directory. Easy and fast to submit, includes a free dofollow backlink.
+- [BestAIDetector.tools](https://bestaidetector.tools) - Compare AI content detection tools with features, accuracy rates, pricing, and reviews
+- [BestOfPodcasts.com](https://bestofpodcasts.com) - Discover the best podcasts across all genres with curated rankings, reviews, and recommendations
+- [BestWriting.tools](https://bestwriting.tools) - Directory of 27+ AI writing tools with features, pricing, reviews, and alternatives
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
 - [BuildVoyage](https://buildvoyage.com/) - A micro-saas directory for AI projects where the journey is what matters!
@@ -181,6 +185,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
+- [MattressRank.info](https://mattressrank.info) - Compare and rank 28+ mattresses with AI-powered analysis and side-by-side comparisons
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
 
 
