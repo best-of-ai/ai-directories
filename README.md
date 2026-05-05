@@ -16,6 +16,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [G](#g)
   - [H](#h)
   - [I](#i)
+  - [K](#k)
   - [L](#l)
   - [M](#m)
   - [N](#n)
@@ -164,8 +165,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 
-##K 
- -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
+## K
+
+- [ki-katalog](https://ki-katalog.de) - Kuratierter Katalog von KI-Tools für den deutschsprachigen Markt
+- [Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
 
 ## L
 
