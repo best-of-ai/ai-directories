@@ -197,7 +197,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
-
+- 
+| **[RoomFlip](https://roomflip.pro)** | AI virtual staging and room redesign — upload a real photo, get 12+ style variations + auto-generated MLS / Zillow / Instagram listing copy in 30 seconds. Free + paid plans. | Image, Real Estate, Design |
 ## S
 
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
