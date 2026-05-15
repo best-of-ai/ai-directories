@@ -216,6 +216,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
+- [ShipBoost](https://shipboost.io/) - SaaS and AI product launch directory with weekly boards and long-tail discovery pages.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
