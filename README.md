@@ -11,6 +11,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## Table of Content
 
+- [WebCoreLab](https://webcorelab.com) — AI-First digital agency. GEO/AEO optimization, 272-check SEO audit, AI citation tracking. Toronto, Canada, est. 2014.
 - **Base on start letter:**
   - [A](#a)
   - [B](#b)
