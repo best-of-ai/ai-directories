@@ -38,6 +38,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - **[Productivity Directory](https://productivity.directory)** - Find, Search & Review AI Productivity Tools
 
 ## A
+
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -104,8 +105,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
 
-
-
 ## B
 
 - [Best of AI](https://bestofai.io) - List of just best AI Tools
@@ -171,6 +170,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 
 ##K 
+
  -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
 
 ## L
@@ -191,6 +191,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 - [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+
+
 ## O
 
 - [OpenHunts](https://openhunts.com/) - Launch and hunt products openly - A platform for discovering and showcasing new products and tools
@@ -247,8 +249,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## W
--[Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
--[WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
+
+- [Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
+- [WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
 
 ## Y
 
