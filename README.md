@@ -62,6 +62,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools
 - [AI Sites Net](https://ai-sites.net/) - Chinese AI Tools Directory
+- [Appscribed](https://appscribed.com/) - AI tools directory and submission platform for discovering and listing AI software.
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
 - [AI Tools Directory](https://aidirectory.wiki/) - Curated list of AI tools
