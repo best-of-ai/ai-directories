@@ -11,7 +11,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## Table of Content
 
-- **Base on start letter:**
+- **Base on start letter:**h
   - [A](#a)
   - [B](#b)
   - [C](#c)
@@ -101,6 +101,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
 - [Ask AI For It](https://askaiforit.com) - AI Tools and SaaS Directory to boost your productivity at work and in life.
 - [AI Headshot Hub](https://aiheadshothub.com/) - Compare top AI headshot generators with detailed reviews, pricing breakdowns, and real examples.
+- [AIHumanLove](https://aihumanlove.com) - Free AI tools directory with 1,500+ tools, 175+ prompt library, free courses, and interactive experiments. EN/ES/PT.
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
