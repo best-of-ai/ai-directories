@@ -240,6 +240,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
+- [ThreeDee AI 3D Tools](https://www.threedee.design/products/ai-3d-generator/) - AI 3D generation platform for text/image-to-3D and printable bust workflows.
 
 ## U
 - [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
