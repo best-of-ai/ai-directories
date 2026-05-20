@@ -130,7 +130,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
-- [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
+- [Deeplaunch.io](https://deeplaunch.io/) - The Ultimate Directory for Online Tools and Resources
 - 
 ## E
 
@@ -175,6 +175,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## L
 
+- [Launchpad](https://launchpad.ms) - Launchpad helps you discover the best AI, SaaS, and productivity tools launching today. Track daily winners, explore trending projects, and never miss the next breakout product.
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
@@ -203,11 +204,13 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Pro Launch](https://prolaunch.net) - Pro Launch gives you a scheduled spotlight, a permanent project page and high-quality backlinks designed to keep driving clicks and search visibility after launch day.
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
 ## S
 
+- [Stellar Launch](https://www.stellarlaunch.org/) - Stellar Launch helps startups get discovered through featured placements, high-quality backlinks, and targeted exposure. Boost visibility, traffic, and credibility—all in one launch platform.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
