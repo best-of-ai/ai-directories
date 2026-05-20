@@ -175,6 +175,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## L
 
+- [Launchpad](https://launchpad.ms) - Launchpad helps you discover the best AI, SaaS, and productivity tools launching today. Track daily winners, explore trending projects, and never miss the next breakout product.
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
@@ -209,6 +210,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [Stellar Launch](https://www.stellarlaunch.org/) - Stellar Launch helps startups get discovered through featured placements, high-quality backlinks, and targeted exposure. Boost visibility, traffic, and credibility—all in one launch platform.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
