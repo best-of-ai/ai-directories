@@ -208,6 +208,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [Shipstry](https://shipstry.com/) - The Ship Registry for Makers. Product launch platform with 800+ backlinks database for promotion.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
