@@ -107,6 +107,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## B
 
+- [BotMarket](https://botmarket.bot) - The CoinMarketCap for AI Agents. Open directory of AI agents, MCP servers, tools, and frameworks with real-time health monitoring and open API.
 - [Best of AI](https://bestofai.io) - List of just best AI Tools
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
