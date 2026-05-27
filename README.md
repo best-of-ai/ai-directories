@@ -138,6 +138,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [EveryDev.ai](https://www.everydev.ai) - The largest developer curated AI tools directory and social network
 - [Evolmagazine.com](https://www.evolmagazine.com/en/tools/) - Find, compare, and integrate the best AI and productivity tools
 - [Expify](https://www.expify.ai) - Biggest AI tools directory in the planet.
+- [Earlyhunt](https://earlyhunt.com) - Hunt early products, and launch on Earlyhunt.
 
 ## F
 
@@ -168,6 +169,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [IA sur mesure](https://iasurmesure.com/) - A french directory
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
+- [Indiehunt](https://indiehunt.io) - Launch your AI project on Indiehunt.
 
 ##K 
 
