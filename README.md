@@ -117,6 +117,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## C
 
+- [CallCow](https://callcow.ai) - AI-powered phone call automation platform that handles inbound sales calls, books appointments, and integrates with your CRM.
 - [ChooseTheAI](https://choosetheai.com/) - AI ecosystem analytics - tools, models, frameworks, and who's winning.
 - [ClaudePro.directory](https://claudepro.directory/) - The unofficial home for Claude enthusiasts. Explore expert rules, browse powerful MCP servers, find specialized agents and commands, discover automation hooks, and connect with the community building the future of AI.
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
