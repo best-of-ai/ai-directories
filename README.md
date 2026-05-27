@@ -154,6 +154,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [FastLaunch](https://fastlaunch.io/) - FastLaunch - Launch & Discover Amazing Products  
 ## G
 
+- [GEOScore](https://geoscoreai.com/) - AI search visibility scanner for Generative Engine Optimization (GEO). Checks how websites perform in AI search engines like ChatGPT, Perplexity, and Google AI Overviews.
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
