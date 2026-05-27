@@ -246,6 +246,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## V
 
+- [VibeReady](https://vibeready.sh) - AI-native SaaS starter kit that keeps AI-generated code consistent at scale. Built-in context routing, quality gates, and LLM-friendly documentation for Claude Code, Cursor, and Copilot.
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## W
