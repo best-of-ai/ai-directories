@@ -261,3 +261,5 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 Feel Free to add your AI Directory To this list
 
+
+* [AI What's On](https://aiwhatson.com/) - Curated, ad-free directory of AI conferences, summits, hackathons, expos & online talks worldwide
