@@ -31,6 +31,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [V](#v)
   - [W](#w)
   - [Y](#y)
+  - [Z](#z)
 
 
 ## Featured Directories
@@ -256,6 +257,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## Y
 
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
+
+## Z
+
+- [ZPlatform.ai](https://zplatform.ai) - Directory of AI tools and software deals, each tested hands-on with a Buy, Wait, or Skip verdict.
 
 # Add Yours
 
