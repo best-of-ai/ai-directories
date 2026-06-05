@@ -45,7 +45,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Corner](https://aicorner.net) - AI Tools Directory
 - [AIDir](https://aidir.wiki) - The first AI Directory of the world, Since 2022!
 - [AI Directory](https://aidirectory.wiki) - Curated collection of AI-powered tools for productivity, creativity, and business.
-- [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
+- [Aidirs](https://aidirs.best) - Discover and Share the Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - A curated list of AI DevTools 
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
@@ -125,10 +125,12 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## D
 
 - [DataLook.io](https://datalook.io/) - Discover the best AI tools, data science resources, and the latest insights in artificial intelligence.
+- [DevRove](https://devrove.com) - A curated directory of developer tools, APIs, templates, and infrastructure for builders shipping software faster.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 - [Dessign](https://dessign.net/) - AI Tools Directory.
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
+- [DirRove](https://dirrove.com) - A curated directory of launch platforms, submission channels, and visibility resources for founders and makers.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
 - [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
 - 
@@ -175,6 +177,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## L
 
+- [LaunchRove](https://launchrove.com) - Product Launch Platform for Makers.
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
@@ -208,6 +211,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [SaaSRove](https://saasrove.com) - Find curated SaaS products across CRM, marketing, analytics, finance, productivity, automation, deals, and founder resources.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
