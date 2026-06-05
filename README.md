@@ -1,6 +1,6 @@
 # List of AI Directories
 
-Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product team, this resource is your one-stop destination to explore a variety of directories that can help boost the visibility of your AI innovations. We've meticulously gathered and organized these directories, making it easier than ever to connect with platforms that showcase cutting-edge AI solutions. Join us in fostering collaboration and recognition within the AI community by leveraging this comprehensive list.
+Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product[...]
 
 ## Want a More Complete List + Done-For-You Submissions?
 
@@ -93,7 +93,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
-- [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while busines[...]
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 - [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
@@ -118,7 +118,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## C
 
 - [ChooseTheAI](https://choosetheai.com/) - AI ecosystem analytics - tools, models, frameworks, and who's winning.
-- [ClaudePro.directory](https://claudepro.directory/) - The unofficial home for Claude enthusiasts. Explore expert rules, browse powerful MCP servers, find specialized agents and commands, discover automation hooks, and connect with the community building the future of AI.
+- [ClaudePro.directory](https://claudepro.directory/) - The unofficial home for Claude enthusiasts. Explore expert rules, browse powerful MCP servers, find specialized agents and commands, discov[...]
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
 
@@ -146,7 +146,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr](https://foundr.ai/) - Discover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
--[Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
+- [Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
+- [FutureStack](https://usefuturestack.com) - Community-driven AI marketplace ranked by real user feedback and upvotes rather than sponsorships
 - [Futurepedia Wiki](https://futurepedia.wiki) - Find the best futuristic tools
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
@@ -154,7 +155,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [FastLaunch](https://fastlaunch.io/) - FastLaunch - Launch & Discover Amazing Products  
 ## G
 
-- [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
+- [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World's Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
 
@@ -190,7 +191,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
-- [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+- [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, an[...]
 
 
 ## O
@@ -217,7 +218,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
-- [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
+- [Submit AI Tools](https://submitaitools.org) - Unleash AI's Potential Discover Tools, Drive Innovation
 
 ## T
 
