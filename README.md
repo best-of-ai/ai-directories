@@ -147,7 +147,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Foundr](https://foundr.ai/) - Discover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 - [Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
-- [FutureStack](https://usefuturestack.com) - Build and deploy AI agents, tools, and workflows with a collaborative IDE and deployment platform
+- [FutureStack](https://usefuturestack.com) - Community-driven AI marketplace ranked by real user feedback and upvotes rather than sponsorships
 - [Futurepedia Wiki](https://futurepedia.wiki) - Find the best futuristic tools
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
