@@ -220,7 +220,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
 ## T
-
+- [TheAISelect](https://theaiselect.com) - A curated, bilingual (English/Spanish) directory and comparison platform for AI tools, featuring detailed hands-on reviews and side-by-side comparisons.
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [theaisurf](https://theaisurf.com/) - Discover Top AI Tools in One Clean Directory
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
