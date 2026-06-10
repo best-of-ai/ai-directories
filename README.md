@@ -227,6 +227,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [.Tech AI TOOLS ](https://allaitools.tech) - No 1 AI Tools and Agents directory, spam-free, AI-Powered recommendations, Worthy Newsletter
 - [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of tools
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
+- [The Agentic AI Index](https://theagenticaiindex.com) - Directory of AI tools and local AI consultants for small business owners across 28 verticals — 17 trades (plumbing, HVAC, electrical, roofing, landscaping), 6 regulated pros (attorneys, doctors, financial advisors, accountants, insurance, real estate), and 5 main-street (restaurants, retail, salons, fitness, cafes). Open data feed at https://theagenticaiindex.com/tools.json (CC-BY-4.0).
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
