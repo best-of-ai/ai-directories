@@ -72,6 +72,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools List](https://aitoolslist.io/) - Best AI Tools Rated
 - [AI Tools Love](https://aitools.love/) - Compare pricing and features for different AI tools and not only.
 - [AI Tools Marketer](https://aitoolsmarketer.com/) - Unlock the Power of AI: Discover, Learn, Compare, and Optimize with the Ultimate AI Tools Directory.
+- [AiToolsObserver](https://aitoolsobserver.com) - Discover, compare, and track AI tools through curated insights, trends, and practical use cases.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools
 - [AI Tools Magazine](https://aitoolsmagazine.com/) - Find the Best AI Tools & Increase Your Productivity by 10x
 - [ALL AI TOOLS .TECH DIRECTORY](https://allaitools.tech/) - Best AI Tools Directory, Find and Compare Tools, Powered by AI Recommendation System
