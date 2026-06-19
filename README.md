@@ -61,6 +61,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Respo](https://airespo.com) - Find AI tools and learning resources.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools
+- [AI 聚合 (aijuhe)](https://aijuhe.org) - Chinese AI tools directory that labels each tool's real mainland-China usability (direct / needs-config / blocked) and lists China-accessible alternatives
 - [AI Sites Net](https://ai-sites.net/) - Chinese AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
