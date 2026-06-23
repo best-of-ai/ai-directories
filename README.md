@@ -40,6 +40,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## A
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AIverse](https://getaiverse.online) - Free multilingual directory of 580+ AI tools and 60+ AI agents across 28 categories, with comparisons and buying guides.
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [AI Corner](https://aicorner.net) - AI Tools Directory
