@@ -173,6 +173,11 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
  -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
 
+## K
+
+- [KaliCart Bridge](https://bridge.kalicart.com) - Free WooCommerce plugin that exposes your product catalog as a structured API and MCP server — makes your store readable by AI agents like ChatGPT, Claude and Gemini. Boost your AI traffic.
+- [KaliCart Ready](https://ready.kalicart.com) - Free scanner that shows exactly what AI agents read from your WordPress or WooCommerce site — and what they miss. Check your AI readability score in 30 seconds.
+
 ## L
 
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
