@@ -261,3 +261,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 Feel Free to add your AI Directory To this list
 
+
+# S
+- [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression for LLMs that reduces token costs by ~65%. Open-source (MIT).
