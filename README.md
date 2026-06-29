@@ -252,6 +252,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
 - [WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
+- [WikiAiii!](https://wikiaiii.com/) - Wiki Aiii tools directory + AI Search
 
 ## Y
 
