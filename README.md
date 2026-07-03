@@ -40,6 +40,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## A
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AsmiAI](https://asmiai.xyz) - Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [AI Corner](https://aicorner.net) - AI Tools Directory
