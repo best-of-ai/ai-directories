@@ -104,6 +104,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
+- [AsmiAI](https://asmiai.xyz) - Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.
 
 ## B
 
