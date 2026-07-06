@@ -37,6 +37,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - **[Productivity Directory](https://productivity.directory)** - Find, Search & Review AI Productivity Tools
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ## A
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
