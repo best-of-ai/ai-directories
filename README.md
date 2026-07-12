@@ -28,6 +28,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [P](#p)
   - [S](#s)
   - [T](#t)
+  - [U](#u)
   - [V](#v)
   - [W](#w)
   - [Y](#y)
@@ -243,6 +244,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## U
 - [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
+- [Use AI For](https://use-ai-for.com) - AI tools directory organized by profession
 
 ## V
 
