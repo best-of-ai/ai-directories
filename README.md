@@ -261,3 +261,5 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 Feel Free to add your AI Directory To this list
 
+
+- [JiuRelay](https://jiurelay.com/) - Free AI API relay for GPT/Claude/GLM. No registration required, 1-hour valid key, OpenAI/Anthropic compatible.
