@@ -205,6 +205,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [PulseGate](https://www.pulsegate.ai) - Live index of AI-era software (~175k apps, models, agents and infra) with no editorial gate, indexed as they ship
 
 ## S
 
