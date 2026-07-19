@@ -247,6 +247,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## V
 
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
+- [Vantaige](https://vantaige.io/) - Browse curated AI tools by type, usage categories and tags + Free in-house made AI tools.
 
 ## W
 
