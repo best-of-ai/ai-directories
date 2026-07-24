@@ -124,6 +124,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## D
 
+- [dailyaitools](https://dailyaitools.ai) - A new AI tool every weekday, tracked as facts: pricing, free plans, features, and side-by-side comparisons. No ratings, no reviews.
 - [DataLook.io](https://datalook.io/) - Discover the best AI tools, data science resources, and the latest insights in artificial intelligence.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 - [Dessign](https://dessign.net/) - AI Tools Directory.
