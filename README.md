@@ -214,6 +214,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 - [Sales Tools AI](https://salestoolsai.top/) - Find AI Tools that increase your sales
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
+- [Stack Insider](https://stack-insider.com) - Evaluates SaaS tools on AI Readiness — MCP servers, OKF bundles, cross-platform skills, API access, and docs quality. Built for humans and AI agents.
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
