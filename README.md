@@ -61,6 +61,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Respo](https://airespo.com) - Find AI tools and learning resources.
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
 - [AI Search Visibility & Optimization Tools](https://www.aeotools.space) - Directory of AI Search Visibility & Optimization Tools
+- [AISO Tools](https://aisotools.com/) - Curated AI tools directory optimized for AI search (ChatGPT, Perplexity, Gemini). 790+ tools across 21 categories, with side-by-side comparisons, alternatives and pricing pages.
 - [AI Sites Net](https://ai-sites.net/) - Chinese AI Tools Directory
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
