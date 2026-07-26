@@ -145,6 +145,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr](https://foundr.ai/) - Discover The Best AI Tools at Your Fingertips
+- [Free AI Directory CN](https://www.qaz5678.xyz/) - A Chinese directory for daily AI news, trending projects, free model links, and source-backed Codex/Claude Code relay information.
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 -[Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
 - [Futurepedia Wiki](https://futurepedia.wiki) - Find the best futuristic tools
@@ -260,4 +261,3 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 # Add Yours
 
 Feel Free to add your AI Directory To this list
-
