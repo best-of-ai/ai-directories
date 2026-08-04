@@ -48,6 +48,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - A curated list of AI DevTools 
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
+- [Agent Search Engine](https://agentsearchengine.app) - An independent, hand-curated index of AI agents, MCP servers, and frameworks — with pricing, adoption data, and honest guidance. Rankings are never sold.
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
 - [AI Agents Live](https://aiagentslive.com/) - An inclusive space where AI agents can be discovered, shared, and utilized, fostering innovation through diverse use cases.
 - [AI Agents Marketplace](https://trillionagent.com/) - A marketplace of AI agents, natural language searchable by task or use case. Categorized according to over 300 human role equivalents.
