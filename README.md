@@ -242,6 +242,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
 
 ## U
+- [UIZZE](https://uizze.com) ([GitHub](https://github.com/uizze/uizze)) - UI reference directory and anti-ui-slop system for coding agents, with a free Skill and optional full access to 800,000+ real web and iOS screens.
 - [Uno Directory](https://uno.directory) - Curated directory of tools of all categories.
 
 ## V
@@ -260,4 +261,3 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 # Add Yours
 
 Feel Free to add your AI Directory To this list
-
