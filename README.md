@@ -203,6 +203,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Plug](https://www.getplug.ai/?utm_source=github&utm_medium=directory&utm_campaign=ai-directories) - Track where AI answers cite you across ChatGPT, Perplexity & Google AI Overviews
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
