@@ -191,6 +191,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
 - [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+- [NeedAITool](https://www.needaitool.com) - Discover, compare, and benchmark 6,800+ AI tools across 14 categories with side-by-side matrices and llms.txt standard.
 
 
 ## O
