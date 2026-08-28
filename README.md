@@ -246,6 +246,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## V
 
+- [Verified Tools](https://www.verifiedtools.info) - AI & SaaS tools directory where verification badges are re-checked against the live site
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## W
