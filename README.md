@@ -66,6 +66,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Corner](https://aitoolscorner.com/) - Collection of best AI Tools,
 - [AI Tools Directory](https://aidirectory.wiki/) - Curated list of AI tools
 - [AI Tools Pin](https://aitoolspin.com/) - The best AI tools by category
+- [AI Tools Radar](https://github.com/ppop123/ai-tools-radar) - Local-first dashboard for exploring AI-tool traffic estimates, growth trends, and dofollow backlink-source snapshots.
 - [AISuperSmart](https://www.aisupersmart.com/ai-tools-directory/) - 1500+ Ai Tools Which Update's Daily And Provide Ai News to World
 - [AI-Tools Directory](https://ai-tools.directory) - A directory of AI tools curated by AI itself
 - [AI Tools Guru](https://aitoolguru.com/) - THE LARGEST AI TOOLS DIRECTORY
