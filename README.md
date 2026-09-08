@@ -251,6 +251,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## W
 
 - [Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
+- [WhatAreYouBuilding.AI](https://whatareyoubuilding.ai) - Free worldwide directory of what independent builders are shipping — AI, SaaS and dev tools (by country, category, funding stage). Free listing, dofollow, live badge; MCP for agents at /mcp.
 - [WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
 
 ## Y
