@@ -91,6 +91,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
 - [AI Agents Base](https://aiagentsbase.com) - Your All-in-One AI Agents Directory
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
+- [AI Agents Listing](https://aiagentslisting.com/) - Directory of AI agents, MCP servers and agent skills, organized by category.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
