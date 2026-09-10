@@ -247,6 +247,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## V
 
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
+- [VibeHacker](https://vibehacker.com) - Product discovery community for AI builders and vibe coders (directory, reviews, discussions, launches)
 
 ## W
 
