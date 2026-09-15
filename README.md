@@ -99,7 +99,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
 - [AIChief](https://aichief.com) - #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
-- [Ask AI For It](https://askaiforit.com) - AI Tools and SaaS Directory to boost your productivity at work and in life.
+- [Ask AI For It](https://askaiforit.com/) - AI Tools and SaaS Directory to boost your productivity at work and in life.
 - [AI Headshot Hub](https://aiheadshothub.com/) - Compare top AI headshot generators with detailed reviews, pricing breakdowns, and real examples.
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
@@ -228,6 +228,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of tools
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
+- [ToolWorthy](https://www.toolworthy.ai/) - AI tool discovery platform with structured profiles, alternatives, category rankings, and editorial guides.
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
@@ -260,4 +261,3 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 # Add Yours
 
 Feel Free to add your AI Directory To this list
-
