@@ -160,6 +160,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## H
 
+- [HaiAi123](https://www.haiai123.com/) - Global AI tools directory with 1,400+ tools across 17 categories, available in English, Simplified Chinese and Traditional Chinese.
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 
