@@ -183,6 +183,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## M
 
 - [AgentHub](https://myagenthub.cn) - Chinese directory for discovering MCP servers and agent skills, with one-click install to Cursor, Claude Code, VS Code and Trae
+- [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
 
