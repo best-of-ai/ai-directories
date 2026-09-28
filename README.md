@@ -1,5 +1,6 @@
 # List of AI Directories
 
+
 Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product team, this resource is your one-stop destination to explore a variety of directories that can help boost the visibility of your AI innovations. We've meticulously gathered and organized these directories, making it easier than ever to connect with platforms that showcase cutting-edge AI solutions. Join us in fostering collaboration and recognition within the AI community by leveraging this comprehensive list.
 
 ## Want a More Complete List + Done-For-You Submissions?
@@ -181,7 +182,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## M
 
-- [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
+- [AgentHub](https://myagenthub.cn) - Chinese directory for discovering MCP servers and agent skills, with one-click install to Cursor, Claude Code, VS Code and Trae
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
 
@@ -190,7 +191,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [NavTools AI](https://navtools.ai/) - Best AI Tools Directory & AI Tools List
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
-- [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
+- [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.- [Makerlist.io](https://makerlist.io) - Directory of tools & StartupsWWW
 
 
 ## O
