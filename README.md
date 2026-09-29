@@ -1,4 +1,4 @@
-# List of AI Directories
+上的# List of AI Directories
 
 Welcome to 'Top AI Directories', a curated compilation of AI tool directories designed to simplify the process of discovering and submitting AI products. Whether you're an AI developer or a product team, this resource is your one-stop destination to explore a variety of directories that can help boost the visibility of your AI innovations. We've meticulously gathered and organized these directories, making it easier than ever to connect with platforms that showcase cutting-edge AI solutions. Join us in fostering collaboration and recognition within the AI community by leveraging this comprehensive list.
 
@@ -55,6 +55,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hunt List](https://aihuntlist.com/) - Discover The Best AI Products & Tools. 3000+ AI products and 200+ categories in the best AI products directory.
 - [AI Library](https://www.theailibrary.co/) - A powerful AI Tools Directory with 500+ tools for every need, from productivity to creativity. 
 - [AiMatchPro](https://aimatch.pro/) -Directory making it easy to find an ai tool for your specific usecase by matching a stack of tools with a search query.
+- [AI Model Brief](https://aimodelbrief.com/) - Independent AI model reference with source-linked briefings and developer guides
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 - [AI Resource Pro](https://airesource.pro) - Create your AI learning roadmap or explore our curated collection of top AI tools, news, and resources.
