@@ -55,6 +55,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hunt List](https://aihuntlist.com/) - Discover The Best AI Products & Tools. 3000+ AI products and 200+ categories in the best AI products directory.
 - [AI Library](https://www.theailibrary.co/) - A powerful AI Tools Directory with 500+ tools for every need, from productivity to creativity. 
 - [AiMatchPro](https://aimatch.pro/) -Directory making it easy to find an ai tool for your specific usecase by matching a stack of tools with a search query.
+- [AI Model Brief](https://aimodelbrief.com/) - Independent AI model reference with source-linked briefings and developer guides
 - [AI PEDIA HUB](https://aipediahub.com/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 - [AI Resource Pro](https://airesource.pro) - Create your AI learning roadmap or explore our curated collection of top AI tools, news, and resources.
