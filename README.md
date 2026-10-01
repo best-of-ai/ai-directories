@@ -101,7 +101,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## B
 
-- [BioAI Agents](https://bioai-agents.com) - A curated directory of 180+ AI-powered tools and platforms for drug discovery, protein engineering, and biotech research.
 - [Best of AI](https://bestofai.io) - List of just best AI Tools
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 - [Best AI Tools org](https://www.best-ai-tools.org/) - Find & Learn AI Tools with AI ChatBot + free Academy
@@ -109,6 +108,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
 - [BuildVoyage](https://buildvoyage.com/) - A micro-saas directory for AI projects where the journey is what matters!
+- [BioAI Agents](https://bioai-agents.com) - A curated directory of 180+ AI-powered tools and platforms for drug discovery, protein engineering, and biotech research.
 
 ## C
 
