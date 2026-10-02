@@ -164,6 +164,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/) - The World’s Best & Largest Directory Of AI Tools
 - [God of Prompt](https://godofprompt.ai/best-ai-tools/) - 1000+ Best AI Tools for Marketing & Business
+- [Grok Bot Wiki](https://www.grokbotwiki.com/bots) - Independent Grok Bot template directory with task and app browsing, creator attribution, and source-linked guides.
 - [GroupifyAI](https://groupify.ai/?ref=github) - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
 
 ## H
