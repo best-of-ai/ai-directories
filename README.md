@@ -170,6 +170,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
+- [HuntAITools](https://huntaitools.online) - Human-curated AI tools directory with 90+ tools, DR benchmarks, and an LLM API pricing index
 
 ## I
 
