@@ -240,6 +240,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of tools
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
+- [ToolWorthy](https://www.toolworthy.ai/) - AI tool discovery platform with structured profiles, alternatives, category rankings, and editorial guides.
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
