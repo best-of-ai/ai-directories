@@ -99,6 +99,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [agentskill.sh](https://agentskill.sh) - Directory of 100,000+ skills for AI coding agents like Claude Code, Cursor, and Codex
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [AgentsIndex](https://agentsindex.ai) - AI agents directory to discover, compare, and review AI agents, frameworks, and automation tools
+- [AgentoolRank](https://agentoolrank.com) - Open-source AI agent tools and MCP servers ranked by live GitHub activity, with a remote MCP server agents can query
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 - [AI Tools Saver](https://www.aitoolsaver.com/) - Your Favorite AI Tools with Discounts
 - [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) -  A curated list of AI-powered coding tools
