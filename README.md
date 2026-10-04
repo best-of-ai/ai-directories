@@ -228,6 +228,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [See AI First](https://seeaifirst.com) - The Opinionated AI Stack Guide — 66 curated developer tools across 13 infrastructure layers with compare mode and bilingual EN/VI support. Open source.
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
+- [SkillsIndex](https://skillsindex.dev) - Directory of 11,600+ AI dev tools (MCP servers, Claude skills, GPT actions, IDE plugins), each scored for security and quality.
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 - [Sidehunt](https://sidehunt.io) - Sidehunt is where side projects and indie launches go live each week—real votes, one competition, and hunters who actually try new products.
 
