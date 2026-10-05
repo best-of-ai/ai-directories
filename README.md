@@ -213,6 +213,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [PostLaunchKit](https://postlaunchkit.com/directory/) - Human-reviewed directory of free tools and projects, with a read API, submit API and llms.txt for AI agents.
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
@@ -277,4 +278,5 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 # Add Yours
 
 Feel Free to add your AI Directory To this list
+
 
