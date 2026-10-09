@@ -174,6 +174,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## I
 
 - [IA sur mesure](https://iasurmesure.com/) - A french directory
+- [INITE Atlas](https://inite.ai/en/atlas) - AI tools for work, ranked by real use; free submission at [inite.ai/en/atlas/submit](https://inite.ai/en/atlas/submit)
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 - [Indiehunt](https://indiehunt.io) - Launch your AI project on Indiehunt.
