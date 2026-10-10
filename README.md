@@ -26,6 +26,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [N](#n)
   - [O](#o)
   - [P](#p)
+  - [R](#r)
   - [S](#s)
   - [T](#t)
   - [V](#v)
@@ -108,6 +109,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
+- [Axiomi](https://axiomi.si/) - Open-weight and local LLM directory with guides, VRAM notes, and research feeds.
 
 ## B
 
@@ -132,6 +134,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## D
 
 - [DataLook.io](https://datalook.io/) - Discover the best AI tools, data science resources, and the latest insights in artificial intelligence.
+- [Drydock](https://drydock.si/) - AI agent frameworks, MCP, coding agents, and developer tooling directory.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 - [Dessign](https://dessign.net/) - AI Tools Directory.
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
@@ -177,6 +180,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 - [Indiehunt](https://indiehunt.io) - Launch your AI project on Indiehunt.
+- [Intelsi](https://intelsi.si/) - Frontier AI assistants and lab policy directory with sourced comparisons.
 
 ##K 
 
@@ -216,6 +220,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
+## R
+
+- [Ryza](https://ryza.si/) - AI productivity tools for email, notes, study, and everyday work.
+
 ## S
 
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
@@ -248,6 +256,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Tools Hub AI](https://toolshubai.com/) - Explore the best AI tools for every task
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
+- [TrueIQ](https://trueiq.si/) - LLM evaluation, benchmarks, detectors, and observability directory.
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
