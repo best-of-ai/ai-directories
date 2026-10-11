@@ -205,6 +205,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 - [Navfolders.com](https://navfolders.com/)) - Discover and share the best web resources. NavFolders helps you navigate the internet efficiently with curated collections, smart categorization, and powerful search tools.
 - [Not Human Search](https://nothumansearch.ai) - Agent-first search engine and directory. Indexes 8,000+ AI tools and MCP servers ranked by agentic readiness (llms.txt, OpenAPI, ai-plugin, MCP, structured API). Free to submit at /submit — no account required. Unique angle: ranks tools by how agent-usable they are, not just human-usable.
+- [NavifyAI](https://www.navifyai.net) - AI Tools Directory for Practical Workflows
 
 ## O
 
