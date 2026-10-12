@@ -141,6 +141,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - 
 ## E
 
+- [EcomAgentHub](https://ecomagenthub.com/) - Ecommerce-focused AI tool directory with comparisons and workflow guides.
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
 - [EveryDev.ai](https://www.everydev.ai) - The largest developer curated AI tools directory and social network
 - [Evolmagazine.com](https://www.evolmagazine.com/en/tools/) - Find, compare, and integrate the best AI and productivity tools
