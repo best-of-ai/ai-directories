@@ -124,6 +124,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 
 - [ChooseTheAI](https://choosetheai.com/) - AI ecosystem analytics - tools, models, frameworks, and who's winning.
+- [CitedIndex](https://citedindex.com) - Directory of AI search visibility and GEO tools.
 - [ClaudePro.directory](https://claudepro.directory/) - The unofficial home for Claude enthusiasts. Explore expert rules, browse powerful MCP servers, find specialized agents and commands, discover automation hooks, and connect with the community building the future of AI.
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
@@ -251,6 +252,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
 - [Tools Hub AI](https://toolshubai.com/) - Explore the best AI tools for every task
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
+- [The Agents Index](https://theagentsindex.com) - Directory of AI agents, agent frameworks and agentic tools.
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
