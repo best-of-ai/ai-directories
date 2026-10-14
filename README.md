@@ -95,6 +95,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents Listing](https://aiagentslisting.com/) - Directory of AI agents, MCP servers and agent skills, organized by category.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
+- [aiBusiness.ai](https://aibusiness.ai/) - Discover AI Consultants for small business.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 - [agentskill.sh](https://agentskill.sh) - Directory of 100,000+ skills for AI coding agents like Claude Code, Cursor, and Codex
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
