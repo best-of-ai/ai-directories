@@ -21,6 +21,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [G](#g)
   - [H](#h)
   - [I](#i)
+  - [J](#j)
   - [L](#l)
   - [M](#m)
   - [N](#n)
@@ -177,6 +178,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 - [Indiehunt](https://indiehunt.io) - Launch your AI project on Indiehunt.
+
+## J
+
+- [JuicyAgents](https://juicyagents.com) - Directory of AI agents, agent skills and task guides for small businesses, with setup steps for tools like ChatGPT, Claude, Codex and n8n.
 
 ##K 
 
