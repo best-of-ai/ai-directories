@@ -217,6 +217,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+- [Public Prompts](https://www.publicprompts.art/) - Independent AI tools directory with category and pricing filters; paid, reviewed owner submissions.
 
 ## S
 
