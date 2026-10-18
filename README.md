@@ -131,6 +131,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## D
 
+- [DartzDabz](https://dartzdabz.com/) - Directory of 2,200+ AI agent tools (MCP servers and x402 APIs) with daily automated trust scores.
 - [DataLook.io](https://datalook.io/) - Discover the best AI tools, data science resources, and the latest insights in artificial intelligence.
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 - [Dessign](https://dessign.net/) - AI Tools Directory.
