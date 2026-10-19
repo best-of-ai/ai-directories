@@ -158,6 +158,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Futurepedia Wiki](https://futurepedia.wiki) - Find the best futuristic tools
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
 - [FutureTools](https://www.futuretools.io/) - Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
+- [FyndMyAI](https://fyndmyai.com) - Curated directory of 6,800+ AI tools, 270+ AI agents and 4,200+ Grok Bot templates, updated every weekday. Free listing submissions (paid premium placement available).
 - [flowtools](https://www.flowtools.co) - Your first stop for smart AI tool decisions
 - [FastLaunch](https://fastlaunch.io/) - FastLaunch - Launch & Discover Amazing Products  
 ## G
