@@ -265,6 +265,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## W
 
+- [WarpNav](https://warpnav.com/) - Chinese-language AI tools directory with categorized official links, open-source project write-ups and beginner AI explainers.
 - [Webspot](https://webspot.app/) - Find the Best Websites on the Internet in 2025
 - [WhatstheBigData.com](https://whatsthebigdata.com/ai-tools/) - Browse the top AI tools
 
