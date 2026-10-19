@@ -96,6 +96,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [Agent Cookbook](https://agentcookbook.dev) - Free directory of 75 real AI agent setups, including 20 that people made money with, each with its source link and a copyable prompt and steps.
 - [agentskill.sh](https://agentskill.sh) - Directory of 100,000+ skills for AI coding agents like Claude Code, Cursor, and Codex
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [AgentsIndex](https://agentsindex.ai) - AI agents directory to discover, compare, and review AI agents, frameworks, and automation tools
