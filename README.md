@@ -228,6 +228,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [See AI First](https://seeaifirst.com) - The Opinionated AI Stack Guide — 66 curated developer tools across 13 infrastructure layers with compare mode and bilingual EN/VI support. Open source.
+- [SellBetterAI](https://sellbetterai.com/) - A curated directory to discover and compare AI tools for sales, marketing, ecommerce, and business workflows.
 - [Selljam.ai](https://selljam.ai/) - Best AI tools and resources for online sellers and ecom pros.
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools at ShowMeBestAI
 - [SaaSCity](https://saascity.io/) - Gamified SaaS directory where every listing becomes a building on a live isometric city map.
