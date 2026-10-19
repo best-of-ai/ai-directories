@@ -225,6 +225,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
 - [Spiff.store](http://spiff.store/) - Internet's best database for AI tools. Discover top AI websites or submit your own tool for more traffic.
 - [Sales Tools AI](https://salestoolsai.top/) - Find AI Tools that increase your sales
+- [Stackdrop (getstackdrop.com)](https://getstackdrop.com/) - AI tools directory for vibe coders with 125+ tools, recommended stacks by goal and side-by-side comparisons
 - [Stackviv](https://stackviv.ai/) - The Largest AI Directory Featuring the Best Tools Across 1000+ Curated Categories!
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools to solve your problems.
 - [See AI First](https://seeaifirst.com) - The Opinionated AI Stack Guide — 66 curated developer tools across 13 infrastructure layers with compare mode and bilingual EN/VI support. Open source.
