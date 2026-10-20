@@ -97,6 +97,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Agents Verse](https://aiagentsverse.com/) - Discover the best AI Agents in our AI Agents Directory.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 - [agentskill.sh](https://agentskill.sh) - Directory of 100,000+ skills for AI coding agents like Claude Code, Cursor, and Codex
+- [Agent Stack Directory](https://agentstackdirectory.com) - Checked directory of infrastructure for AI agents (browsers, sandboxes, memory, search) with side-by-side comparison pages. Free submissions.
 - [AgentHunter](https://www.agenthunter.io/) - Discover the Best AI Agents in One Place.
 - [AgentsIndex](https://agentsindex.ai) - AI agents directory to discover, compare, and review AI agents, frameworks, and automation tools
 - [Aixyz](https://www.aixyz.co) - Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
