@@ -127,6 +127,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
 - [ChatDevelopers.com](https://chatdevelopers.com) - A curated directory of AI chat tools, SDKs, APIs, and frameworks for developers building LLM-powered products.
+- [Creati.ai](https://creati.ai/) - Multilingual directory of 27,000+ AI tools and agents, with monthly rankings, reviews and daily AI news in 9 languages.
 
 
 ## D
