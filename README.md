@@ -242,6 +242,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [.Tech AI TOOLS ](https://allaitools.tech) - No 1 AI Tools and Agents directory, spam-free, AI-Powered recommendations, Worthy Newsletter
 - [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of tools
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
+- [ToolNaviq](https://toolnaviq.com) - An English and Chinese AI tool directory with task guides, official-source links and clear verification labels.
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
