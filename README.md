@@ -47,6 +47,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Corner](https://aicorner.net) - AI Tools Directory
 - [AiDirs](https://aidirs.best) - Discover and Share the Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - A curated list of AI DevTools
+- [AIForgeHub](https://aiforgehub.tools) - A short list of AI tools explained in plain words, with real prices.
 - [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials
 - [ainave](https://www.ainave.com) - Navigate the world of AI with ease!
 - [AI Agent Store](https://aiagentstore.ai/) - Compare AI agents, agent development platforms and agentic frameworks.
