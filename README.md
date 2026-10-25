@@ -178,6 +178,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Intelligent Tools](https://intelligenttools.co/) - AI Tools Directory with honest reviews
 - [Indiehunt](https://indiehunt.io) - Launch your AI project on Indiehunt.
 
+## J
+
+- [Jvlang AI](https://jvlangai.com) - Chinese-language directory of model API providers, public pricing sources, and Codex setup resources.
+
 ##K 
 
  -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
