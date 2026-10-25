@@ -220,6 +220,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [StackGrade](https://stackgrade.app/) - Weekly ranking of 52 AI and agent tools with a quality score and a separate automated safety label.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
