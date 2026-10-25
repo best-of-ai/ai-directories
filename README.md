@@ -275,6 +275,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## Z
 
   - [ZPlatform.ai](https://zplatform.ai) - Best AI Tool Deals & Reviews — Lifetime Deals, Discounts & Free Tools with honest
+  - [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
   BUY/WAIT/SKIP verdicts
 
 # Add Yours
