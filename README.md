@@ -190,6 +190,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## M
 
+- [MacNative](https://macnative.io) - Curated macOS app directory with a dedicated AI & Automation category for Mac-native AI assistants, agents, and local-model tools.
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
