@@ -26,6 +26,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [N](#n)
   - [O](#o)
   - [P](#p)
+  - [R](#r)
   - [S](#s)
   - [T](#t)
   - [V](#v)
@@ -217,6 +218,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
+
+## R
+
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 
 ## S
 
