@@ -194,6 +194,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
 - [Makerhunt](https://makerhunt.io) - Join makers shipping every week on MakerHunt. One weekly hunt, real votes, and people who try new products first.
+- [Math Solver](https://mathsolver.help) - Free AI math solver with step-by-step explanations
 
 
 ## N
