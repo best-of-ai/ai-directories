@@ -233,6 +233,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [SaaSCity](https://saascity.io/) - Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 - [Sidehunt](https://sidehunt.io) - Sidehunt is where side projects and indie launches go live each week—real votes, one competition, and hunters who actually try new products.
+- [Swarmnest](https://swarmnest.ai/) - Directory of 3,800+ hand-checked AI agent tools, APIs and MCP servers plus 545 Agent Skills, with a free JSON API and MCP server.
 
 ## T
 
