@@ -152,6 +152,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Find An AI Tools](https://findanaitools.com) - No 1 AI Aggregator
 - [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
+- [FindAIforWork](https://findaiforwork.com) - A curated directory of AI tools organized by work scenario, with reviewed listings and a free submission page.
 - [Foundr](https://foundr.ai/) - Discover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 -[Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
