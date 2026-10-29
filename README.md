@@ -261,6 +261,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## V
 
+- [Vaneform](https://vaneform.com) - Free website traffic checker and leaderboards for AI/SaaS sites
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
 ## W
