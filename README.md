@@ -141,6 +141,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - 
 ## E
 
+- [EcomPick](https://ecompick.com/) - Directory of AI tools, MCP servers and agent skills for ecommerce sellers.
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
 - [EveryDev.ai](https://www.everydev.ai) - The largest developer curated AI tools directory and social network
 - [Evolmagazine.com](https://www.evolmagazine.com/en/tools/) - Find, compare, and integrate the best AI and productivity tools
