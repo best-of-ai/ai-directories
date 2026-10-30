@@ -153,6 +153,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
 - [Foundr](https://foundr.ai/) - Discover The Best AI Tools at Your Fingertips
+- [FoundrList](https://www.foundrlist.com/) - Weekly launch platform and directory for AI tools and SaaS, with a free launch option
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 -[Future AI Guide](https://tools.futureaiguide.com/) - The Ultimate AI Hub and AI Tool Directory.
 - [Futurepedia Wiki](https://futurepedia.wiki) - Find the best futuristic tools
