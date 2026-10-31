@@ -233,6 +233,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [SaaSCity](https://saascity.io/) - Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 - [Sidehunt](https://sidehunt.io) - Sidehunt is where side projects and indie launches go live each week—real votes, one competition, and hunters who actually try new products.
+- [SaaSToolIndex](https://saastoolindex.com/) - Index of SaaS and AI tools with pricing, free tiers, limits and the official source each profile was checked against.
 
 ## T
 
