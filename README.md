@@ -220,6 +220,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## S
 
+- [Shapeless Directory](https://shapelessai.com/ai-tools/submit) - Free listing for any real software tool, reviewed against the maker's own site, with a followed link while the "Featured on ShapelessAI" badge is on your homepage. Agents can submit through the MCP server at shapelessai.com/mcp.
 - [Startuplist.in](https://startuplist.in/) - Get free backlinks to boost your SEO and get more traffic to your website.
 - [Stratup.ai](https://stratup.ai/) - AI-Powered Startup Ideas and Tools to Fuel Your Entrepreneurial Journey
 - [Startup Tools List](https://startuptoolslist.com) - Find Best Tools For Start Your Startup
