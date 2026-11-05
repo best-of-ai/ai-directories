@@ -254,6 +254,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+- [Tooloteca](https://tooloteca.com) - The AI tool library: 300+ AI tools across 58 categories, organized by the job you need done, with pricing, comparisons and alternatives.
 - [ToolDirs](https://tooldirs.com) - The Ultimate Tools Directory. Discover, and find the perfect AI tools.
 
 ## U
