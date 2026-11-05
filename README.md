@@ -108,6 +108,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
+- [alleKI](https://alleki.de) - German AI tools directory with a GDPR traffic-light rating for every tool, comparisons and curated best-of lists.
 
 ## B
 
