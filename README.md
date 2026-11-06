@@ -190,6 +190,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## M
 
+- [Mac Browse](https://macbrowse.com) - The hand-picked directory of the best Mac apps, organised by App Store categories. Free submissions.
 - [Makerlist.io](https://makerlist.io) - Directory of tools & Startups
 - [Marketing Tools List](https://marketingtoolslist.com) - a curated list of marketing tools in various categories
 - [Most Popular AI Tools](https://mostpopularaitools.com) – Curated directory of trending AI tools across writing, design, coding, marketing & productivity.
