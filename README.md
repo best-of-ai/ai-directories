@@ -246,6 +246,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
+- [TOOLPORT](https://toolportmarket.com/) - Multilingual AI tools catalog (13 languages) with comparisons and guides.
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
 - [Tools Hub AI](https://toolshubai.com/) - Explore the best AI tools for every task
