@@ -236,6 +236,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
+- [The AI Agent Market](https://theaiagentmarket.com) - Source-linked directory of AI agents, MCP tool servers and workflows, with vendor-sourced pricing and a free CSV export.
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [theaisurf](https://theaisurf.com/) - Discover Top AI Tools in One Clean Directory
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
