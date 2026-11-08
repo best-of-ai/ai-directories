@@ -215,6 +215,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [Pickfinch](https://pickfinch.com) - AI tools curated and ranked by use case, with published editorial scoring and source-linked releases.
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
