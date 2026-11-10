@@ -187,6 +187,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
 - [ListYourTool](https://www.listyourtool.com/) - Discover the best AI tools in one place
 - [Launch Vault](https://www.launchvault.dev/) - The Ultimate Product Launch Platform for Indie Hackers and Startups
+- [launched.tools](https://launched.tools/) - Human-reviewed directory of AI tools, each test-driven and scored out of 100
 
 ## M
 
