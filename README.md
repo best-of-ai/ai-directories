@@ -250,6 +250,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
 - [Tools Hub AI](https://toolshubai.com/) - Explore the best AI tools for every task
 - [ThatsMyAI](https://thatsmy.ai/) - Discover the right AI Apps and Certifications for your needs
+- [The AI Directory](https://theaidirectory.ai) - Multilingual (EN/ES/FR/DE) directory of 600+ AI tools by category. Free listing and free featured spots for makers.
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 - [TrustList](https://www.trustlist.ai/) - Your Trusted A.I. Guide. Discover the A.I. solutions that simplify your daily tasks.
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
