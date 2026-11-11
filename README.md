@@ -182,6 +182,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
  -[Kick Product](https://kickproduct.com/) - Fair Launch platform for SaaS Product (including AI tools )
 
+- [KidCreatorTools](https://kidcreatortools.com) - Directory of AI tools for making children's content (story videos, kid voices, kids songs, picture books, coloring pages); free listing for makers.
+
 ## L
 
 - [LineZine AI Tool Directory](https://linezine.com/ai-tool-directory) - Curated list of AI tools for business use
