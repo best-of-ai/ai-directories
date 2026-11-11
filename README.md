@@ -108,6 +108,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Hustle](https://aihustle.tools)) - All the best ai tools in one place
 - [Aura++](https://auraplusplus.com) - Launch your project and get a featured launch blog post, social media promotions, high authority dofollow backlink and traffic.
 - [AIToolsHunt](https://aitoolshunt.com) - Comprehensive AI tools directory to discover the latest AI tools
+- [Agent Flows Hub](https://www.agentflowshub.com/en/library) - Browse AI agents, agent skills, MCP servers, plugins, and workflow templates with links to official setup instructions.
 
 ## B
 
