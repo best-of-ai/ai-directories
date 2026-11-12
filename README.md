@@ -216,6 +216,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## P
 
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
+- [Present of AI](https://presentofai.com) - AI company directory and jobs board tracking 900+ AI companies and their open roles
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
 ## S
