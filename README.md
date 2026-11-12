@@ -277,6 +277,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [ZPlatform.ai](https://zplatform.ai) - Best AI Tool Deals & Reviews — Lifetime Deals, Discounts & Free Tools with honest
   BUY/WAIT/SKIP verdicts
 
+- [Zivvi](https://zivvi.app) - Discover and launch AI tools, web apps, and SaaS products ranked by real worldwide traffic and community reviews.
+
 # Add Yours
 
 Feel Free to add your AI Directory To this list
