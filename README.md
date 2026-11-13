@@ -236,6 +236,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## T
 
+- [The AI Ledger](https://ailedger.uk) - Independent reviews and scores of AI tools for UK and US accountants and bookkeepers
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [theaisurf](https://theaisurf.com/) - Discover Top AI Tools in One Clean Directory
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
