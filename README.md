@@ -170,6 +170,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Havnai](https://havnai.com/) - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - [HeyAIworld](https://heyaiworld.com/) - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
+- [HOL Plugins](https://hol.org/plugins) - AI plugin discovery directory: browse Claude Code, Codex, Cursor, and MCP plugins ranked by trust score.
 
 ## I
 
