@@ -137,6 +137,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
+- [DSHSeek](https://dshseek.com) - The unofficial plugin directory & news hub for DeepSeek Harness: plugins, themes, clients, tutorials and community projects.
 - [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
 - 
 ## E
