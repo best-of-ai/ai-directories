@@ -40,6 +40,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## A
 
+- [Awesome Indie](https://awesomeindie.com) - Daily launch platform for indie makers with free launches ranked by upvotes alone, weekly/monthly/yearly leaderboards, and an MCP server to submit from your AI agent.
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
