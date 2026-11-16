@@ -142,6 +142,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## E
 
 - [EliteAI Tools](https://eliteai.tools) - AI tools directory, exclusively featuring high-quality AI tools
+- [European AI Tools](https://europeanaitools.com/) - Source-linked European AI software directory with comparison guides and free, manually reviewed submissions.
 - [EveryDev.ai](https://www.everydev.ai) - The largest developer curated AI tools directory and social network
 - [Evolmagazine.com](https://www.evolmagazine.com/en/tools/) - Find, compare, and integrate the best AI and productivity tools
 - [Expify](https://www.expify.ai) - Biggest AI tools directory in the planet.
