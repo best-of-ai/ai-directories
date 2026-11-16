@@ -42,6 +42,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
+- [AI Tool Web Dir](https://aitoolwebdir.com) - 165 hand-picked AI tools across 12 categories, with pricing comparison and an open submission form
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [AI Directory](https://aidirectory.website) - Curated collection of AI-powered tools for productivity, creativity, and business.
 - [AI Corner](https://aicorner.net) - AI Tools Directory
