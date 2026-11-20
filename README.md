@@ -40,6 +40,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## A
 
+- [AI Made Easy](https://aimadeeasy.app) - 1,400+ AI tools sorted by job, with a published 0 to 100 score, dated prices and free listing.
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI Tools Submit](https://submitaitools.org/submit-your-ai-tool/) - Submit your AI tools
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
