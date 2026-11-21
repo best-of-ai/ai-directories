@@ -241,6 +241,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
 - [.Tech AI TOOLS ](https://allaitools.tech) - No 1 AI Tools and Agents directory, spam-free, AI-Powered recommendations, Worthy Newsletter
 - [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of tools
+- [Toolie](https://gotoolie.com) - Task-first AI tool finder: describe a task, get 1-3 honest AI tool picks with free-plan notes and alternatives.
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Toolwave.io](https://www.toolwave.io) - Toolwave - Discover Thousands of AI Tools for Every Use Case
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
