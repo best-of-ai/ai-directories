@@ -215,6 +215,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## P
 
+- [PeerPush](https://peerpush.com) - Launch and discover AI tools and software, with structured listings that AI assistants can read via API and MCP
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 
