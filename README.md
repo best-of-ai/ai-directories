@@ -137,6 +137,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
 - [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 - [Dofollow.Tools](https://dofollow.tools) - Submit on Dofollow.Tools and get dofollow backlinks
+- [draftlab](https://getdraftlab.com/launch) - The community platform where people share what they make with AI, and how they make it, with the tools, prompts and costs behind it.
 - [Deeplaunch.io](https://deeplaunch.io/)) - The Ultimate Directory for Online Tools and Resources
 - 
 ## E
